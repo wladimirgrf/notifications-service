@@ -1,10 +1,22 @@
 {
   "name": "notifications-service",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "title": "notifications-service",
+  "version": "1.0.0",
+  "description": "Microservice for managing Notifications across an Event-Driven infrastructure",
+  "author": "Wladimir <wladimir.code@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "notifications",
+    "microservice",
+    "event-driven",
+    "rocketseat",
+    "nestjs",
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wladimirgrf/notifications-service"
+  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
