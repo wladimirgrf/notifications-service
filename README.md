@@ -9,7 +9,7 @@ Project developed during the Node.js Ignite Lab. This is a microservice for mana
 
 ## 🌍 Ecosystem
 
-Below the technologies, used to build this API:
+Below the technologies, used to build this Microservice:
 
 |                      Name                                   |                         Status                          |
 |:-----------------------------------------------------------:|:-------------------------------------------------------:|
