@@ -1,8 +1,8 @@
 ### notifications-service
 
 [![](https://img.shields.io/github/repo-size/wladimirgrf/notifications-service?color=%23FFB000&labelColor=000000)]()
-[![](https://img.shields.io/github/last-commit/wladimirgrf/notifications-service?color=%23FFB000&labelColor=000000)](https://github.com/wladimirgrf/certification/commits/master)
-[![](https://img.shields.io/github/issues/wladimirgrf/notifications-service?color=%23FFB000&labelColor=000000)](https://github.com/wladimirgrf/certification/issues)
+[![](https://img.shields.io/github/last-commit/wladimirgrf/notifications-service?color=%23FFB000&labelColor=000000)](https://github.com/wladimirgrf/notifications-service/commits/master)
+[![](https://img.shields.io/github/issues/wladimirgrf/notifications-service?color=%23FFB000&labelColor=000000)](https://github.com/wladimirgrf/notifications-service/issues)
 [![](https://img.shields.io/github/license/wladimirgrf/notifications-service?color=%23FFB000&labelColor=000000)]()
 
 Project developed during the Node.js Ignite Lab. This is a microservice for managing notifications across an event-driven infrastructure. Using a message broker to handle multiple events.
